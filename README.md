@@ -36,5 +36,7 @@ Segundo o desenvolvedor, o Google Street View é uma tecnologia criada pela Goog
 ## 3.	MATERIAIS E MÉTODOS
 A implementação da aplicação contou com duas frentes distintas – uma responsável por conectar-se ao acessório Wii Balance Board e converter os dados de peso obtidos em sinais interpretáveis e a outra, responsável pela navegação no ambiente virtual do Google Street View. Veja o fluxograma.
  
+![fluxograma](docs/flow.png "fluxograma")
+ 
  ## 5.	LICENÇA
 2013 MIT License
