@@ -1,15 +1,19 @@
 # Wii Street View 
-### Simulação de um Ambiente de Caminhada com Realidade Virtual
-    
-- Luiz Fernando Machado Silva orientado por Prof. Dr. Ezequiel Roberto Zorzal
-- Instituto de Ciência e Tecnologia (ICT) da Universidade Federal de São Paulo (UNIFESP)
-- 2013
-    
+## Simulação de um Ambiente de Caminhada com Realidade Virtual
+
+**Autor:** Luiz Fernando Machado Silva
+**Orientador:** Prof. Dr. Ezequiel Roberto Zorzal
+**Universidade:** Instituto de Ciência e Tecnologia (ICT) da Universidade Federal de São Paulo (UNIFESP)
+**Ano:** 2013
+  
 **Resumo:** *Este trabalho propõe o desenvolvimento de um aplicativo que simule, de forma natural o possível, uma caminhada em um ambiente virtual baseado em ruas do mundo real, com o auxílio de Realidade Virtual.*
+
 **Palavras-chave:** *“realidade virtual”, “Wii Balance Board”, “Google Street View”, “fitness game”, exergaming*
 
-**Simulation of a Jogging Environment using Virtual Reality**
+### Simulation of a Jogging Environment using Virtual Reality
+
 **Abstract:** *This work proposes the development of an application able to simulate, in the most natural way, jogging on a virtual environment based on real-life streets, using Virtual Reality.*
+
 **Keywords:** *“virtual reality”, “Wii Balance Board”, “Google Street View”, “fitness game”, exergaming*
 
 ## 1.	INTRODUÇÃO
@@ -33,4 +37,5 @@ A implementação da aplicação contou com duas frentes distintas – uma respo
 ![fluxograma](docs/flow.png "fluxograma")
  
  ## 5.	LICENÇA
-2013 MIT License
+2013 [MIT License](LICENSE)
+
