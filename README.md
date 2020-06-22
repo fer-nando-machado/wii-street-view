@@ -1,10 +1,10 @@
 # Wii Street View 
 ## Simulação de um Ambiente de Caminhada com Realidade Virtual
 
-**Autor:** Luiz Fernando Machado Silva
-**Orientador:** Prof. Dr. Ezequiel Roberto Zorzal
-**Universidade:** Instituto de Ciência e Tecnologia (ICT) da Universidade Federal de São Paulo (UNIFESP)
-**Ano:** 2013
+- **Autor:** Luiz Fernando Machado Silva
+- **Orientador:** Prof. Dr. Ezequiel Roberto Zorzal
+- **Universidade:** Instituto de Ciência e Tecnologia (ICT) da Universidade Federal de São Paulo (UNIFESP)
+- **Ano:** 2013
   
 **Resumo:** *Este trabalho propõe o desenvolvimento de um aplicativo que simule, de forma natural o possível, uma caminhada em um ambiente virtual baseado em ruas do mundo real, com o auxílio de Realidade Virtual.*
 
@@ -34,8 +34,18 @@ Segundo o desenvolvedor, o Google Street View é uma tecnologia criada pela Goog
 ## 3.	MATERIAIS E MÉTODOS
 A implementação da aplicação contou com duas frentes distintas – uma responsável por conectar-se ao acessório Wii Balance Board e converter os dados de peso obtidos em sinais interpretáveis e a outra, responsável pela navegação no ambiente virtual do Google Street View. Veja o fluxograma.
  
-![fluxograma](docs/flow.png "fluxograma")
+![](docs/flow.png "fluxograma")
+
+## 4.	IMAGENS
+
+![](docs/welcome.png "aplicação")
+*Calibrando Wii Balance Board ao inicializar o simulador.*
+
+![](docs/left.png "imagem do pé esquerdo")
+*Wii Balance Board detectando peso no pé esquerdo.*
+
+![](docs/right.png "imagem do pé direito")
+*Wii Balance Board detectando peso no pé direito.*
  
  ## 5.	LICENÇA
-2013 [MIT License](LICENSE)
-
+2013 [MIT License](LICENSE).
