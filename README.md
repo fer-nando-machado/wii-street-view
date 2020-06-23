@@ -1,9 +1,13 @@
 # Wii Street View 
 ## Simulação de um Ambiente de Caminhada com Realidade Virtual
+  
+### Realidade Virtual e Aumentada
 
 - **Autor:** Luiz Fernando Machado Silva
 - **Orientador:** Prof. Dr. Ezequiel Roberto Zorzal
-- Instituto de Ciência e Tecnologia (ICT) da Universidade Federal de São Paulo (UNIFESP)
+- **Ano:** 2013
+- **Curso:** Bacharelado em Ciência da Computação
+- **Instituição:**  Instituto de Ciência de Tecnologia (ICT) da Universidade Federal de São Paulo (UNIFESP)   
   
 **Resumo:** *Este trabalho propõe o desenvolvimento de um aplicativo que simule, de forma natural o possível, uma caminhada em um ambiente virtual baseado em ruas do mundo real, com o auxílio de Realidade Virtual.*
 
