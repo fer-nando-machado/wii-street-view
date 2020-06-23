@@ -3,7 +3,7 @@
 
 - **Autor:** Luiz Fernando Machado Silva
 - **Orientador:** Prof. Dr. Ezequiel Roberto Zorzal
-- **Universidade:** Instituto de Ciência e Tecnologia (ICT) da Universidade Federal de São Paulo (UNIFESP)
+- Instituto de Ciência e Tecnologia (ICT) da Universidade Federal de São Paulo (UNIFESP)
   
 **Resumo:** *Este trabalho propõe o desenvolvimento de um aplicativo que simule, de forma natural o possível, uma caminhada em um ambiente virtual baseado em ruas do mundo real, com o auxílio de Realidade Virtual.*
 
