@@ -4,7 +4,6 @@
 - **Autor:** Luiz Fernando Machado Silva
 - **Orientador:** Prof. Dr. Ezequiel Roberto Zorzal
 - **Universidade:** Instituto de Ciência e Tecnologia (ICT) da Universidade Federal de São Paulo (UNIFESP)
-- **Ano:** 2013
   
 **Resumo:** *Este trabalho propõe o desenvolvimento de um aplicativo que simule, de forma natural o possível, uma caminhada em um ambiente virtual baseado em ruas do mundo real, com o auxílio de Realidade Virtual.*
 
@@ -46,6 +45,13 @@ A implementação da aplicação contou com duas frentes distintas – uma respo
 
 ![](docs/right.png "imagem do pé direito")
 *Wii Balance Board detectando peso no pé direito.*
+
+![](docs/real1.jpg "fotografia do simulador em uso")
+*fotografia do simulador em uso.*
+
+![](docs/real2.jpg "fotografia do simulador em uso")
+*fotografia do simulador em uso.*
+
  
  ## 5.	LICENÇA
 2013 [MIT License](LICENSE).
